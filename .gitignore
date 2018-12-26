@@ -1,6 +1,6 @@
-/TestData
-/test-output
-/.settings
+/TestData/
+/test-output/
+/.settings/
 
-*hs_err_pid5561.log
+*.log
 
